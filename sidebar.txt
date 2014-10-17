@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[phq:home|Door43 (phq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-phq|d43-phq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-phq/archive/master.zip|d43-phq.zip]]
+
+**Recent Changes**
+{{changes>ns = phq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/phq|Ethnologue data]]
+
